@@ -22,7 +22,7 @@ A més dels mapes per a població, l'estudi d'epidèmies de la primera meitat de
 
 |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Thomas-Shapter-HistoryOfCholeraInExeter1832-map.jpg/250px-Thomas-Shapter-HistoryOfCholeraInExeter1832-map.jpg)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/250px-Snow-cholera-map-1.jpg)|
 |-|-|
-|Mapa de Thomas Shapter: casos de còlera a Èxter (1849) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))| Mapa de Jphn Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
+|Mapa de Thomas Shapter: casos de còlera a Èxter (1849) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))| Mapa de John Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
 
 ## Avantatges i inconvenients
 ### Avantatges
@@ -77,7 +77,7 @@ A més dels mapes per a població, l'estudi d'epidèmies de la primera meitat de
 
 |![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/250px-Snow-cholera-map-1.jpg)|
 |-|
-|Mapa de Jphn Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
+|Mapa de John Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
 
 
 ## Visualització
@@ -560,7 +560,7 @@ fig.show()
 Per obtenir la informació llistada a continuació, he consultat [Wilkinson, Leland. (1999). Dot plots.](https://www.researchgate.net/publication/241735557_Dot_plots) i [la wikipedia](https://en.wikipedia.org/wiki/Dot_plot_(statistics)).
 
 ## Origen i autoria:
-A finals del segle XIX comencen a aparèixen els diagrames de punts: el primer es considera el de Jevons (1884) per mostrar el pes de les monedes per cada any. A mesura que l'ús d'aquests diagrames es popularitzen, però encara no són a prop del que coneixem com a beeswarm plots. És més a prop dels anys 2000, quan l'article de  [Wilkinson, Leland. (1999). Dot plots.](https://www.researchgate.net/publication/241735557_Dot_plots) es publica a *The American Statician* i tracta sobre de diagrames de punts discuteix algorismes per a fer aquesta mena de diagrames que anomena "diagrames de punts simètrics".
+A finals del segle XIX comencen a aparèixen els diagrames de punts: el primer es considera el de Jevons (1884) per mostrar el pes de les monedes per cada any. Aquests diagrames es popularitzen, però encara no són a prop del que coneixem com a beeswarm plots. És més a prop dels anys 2000, quan l'article de  [Wilkinson, Leland. (1999). Dot plots.](https://www.researchgate.net/publication/241735557_Dot_plots) es publica a *The American Statician* i tracta sobre de diagrames de punts discuteix algorismes per a fer aquesta mena de diagrames que anomena "diagrames de punts simètrics".
 
 |![](https://github.com/EstherRH00/VisualitzacioPAC2/blob/main/Images%20from%20books%20and%20papers/dot%20plot.PNG?raw=true)|
 |-|
