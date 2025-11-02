@@ -851,8 +851,8 @@ fig.update_layout(
 fig.show()
 ```
 
-<div>
-<video width="320" height="240" controls>
-  <source src="interactive.mp4" type="video/mp4">
-</video>
-</div>
+<video src="interactive.mp4" width="320" height="240" controls></video>
+
+or
+
+<iframe width="560" height="315" src="interactive.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
