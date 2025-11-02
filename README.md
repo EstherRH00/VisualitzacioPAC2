@@ -850,4 +850,4 @@ fig.update_layout(
 
 fig.show()
 ```
-![png](output_19_1.png)
+![](interactive.mp4)
