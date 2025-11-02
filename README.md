@@ -560,7 +560,7 @@ fig.show()
 Per obtenir la informació llistada a continuació, he consultat [Wilkinson, Leland. (1999). Dot plots.](https://www.researchgate.net/publication/241735557_Dot_plots) i [la wikipedia](https://en.wikipedia.org/wiki/Dot_plot_(statistics)).
 
 ## Origen i autoria:
-A finals del segle XIX comencen a aparèixen els diagrames de punts: el primer es considera el de Jevons (1884) per mostrar el pes de les monedes per cada any. A mesura que l'ús d'aquests diagrames es popularitzen, però encara no són a prop del que coneixem com a beeswarm plots. És més a prop dels anys 2000, quan l'article de  [Wilkinson, Leland. (1999). Dot plots.](https://www.researchgate.net/publication/241735557_Dot_plots) es publica a *The American Statician* i tracta sobre de diagrames de punts discuteix algorismes per a fer aquesta mena de diagrames que anomena "diagrames de punts simètrics".
+A finals del segle XIX comencen a aparèixen els diagrames de punts: el primer es considera el de Jevons (1884) per mostrar el pes de les monedes per cada any. Aquests diagrames es popularitzen, però encara no són a prop del que coneixem com a beeswarm plots. És més a prop dels anys 2000, quan l'article de  [Wilkinson, Leland. (1999). Dot plots.](https://www.researchgate.net/publication/241735557_Dot_plots) es publica a *The American Statician* i tracta sobre de diagrames de punts discuteix algorismes per a fer aquesta mena de diagrames que anomena "diagrames de punts simètrics".
 
 |![](https://github.com/EstherRH00/VisualitzacioPAC2/blob/main/Images%20from%20books%20and%20papers/dot%20plot.PNG?raw=true)|
 |-|
