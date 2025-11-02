@@ -6,6 +6,11 @@
 <video src="https://drive.google.com/file/d/1CdHYPRVjoZht85KKHd3o9J07-2IPEu2M/view?usp=sharing" width="80%" controls></video>
 </p>
 
+[![Watch the video](https://drive.google.com/file/d/1CdHYPRVjoZht85KKHd3o9J07-2IPEu2M/view?usp=sharing)]
+
+[![Watch the video](interactive.mp4)]
+
+
 
 # [Dot Density Map](https://datavizproject.com/data-type/dot-density-map/)
 És una visualització que utilitza punts o altres símbols per indicar la presència d'un fenòmen en un mapa. Poden ser de tipus One-to-One, on cada punt representa un esdeveniment, o One-to-Many, on cada punt representa una quantitat predeterminada d'esdeveniments (per exemple, un punt per a cada 100 casos).
