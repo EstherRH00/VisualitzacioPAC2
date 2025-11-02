@@ -850,6 +850,9 @@ fig.update_layout(
 
 fig.show()
 ```
+
+<div>
 <video width="320" height="240" controls>
   <source src="interactive.mp4" type="video/mp4">
 </video>
+</div>
