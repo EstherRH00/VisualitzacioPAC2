@@ -851,7 +851,7 @@ fig.update_layout(
 fig.show()
 ```
 <div>
-<video src="interactive.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/EstherRH00/VisualitzacioPAC2/blob/main/interactive.mp4" width="320" height="240" controls></video>
 </div>
 or
 <div>
