@@ -3,7 +3,7 @@
 ### Octubre 2025
 
 <p align="center" width="100%">
-<video src="https://github.com/EstherRH00/VisualitzacioPAC2/blob/main/interactive.mp4" width="80%" controls></video>
+<video src="https://drive.google.com/file/d/1CdHYPRVjoZht85KKHd3o9J07-2IPEu2M/view?usp=sharing" width="80%" controls></video>
 </p>
 
 
