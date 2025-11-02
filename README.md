@@ -2,6 +2,11 @@
 ### Esther Ruano Hortoneda
 ### Octubre 2025
 
+<p align="center" width="100%">
+<video src="https://github.com/EstherRH00/VisualitzacioPAC2/blob/main/interactive.mp4" width="80%" controls></video>
+</p>
+
+
 # [Dot Density Map](https://datavizproject.com/data-type/dot-density-map/)
 És una visualització que utilitza punts o altres símbols per indicar la presència d'un fenòmen en un mapa. Poden ser de tipus One-to-One, on cada punt representa un esdeveniment, o One-to-Many, on cada punt representa una quantitat predeterminada d'esdeveniments (per exemple, un punt per a cada 100 casos).
 
