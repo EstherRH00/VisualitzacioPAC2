@@ -2,16 +2,6 @@
 ### Esther Ruano Hortoneda
 ### Octubre 2025
 
-<p align="center" width="100%">
-<video src="https://drive.google.com/file/d/1CdHYPRVjoZht85KKHd3o9J07-2IPEu2M/view?usp=sharing" width="80%" controls></video>
-</p>
-
-[![Watch the video](https://drive.google.com/file/d/1CdHYPRVjoZht85KKHd3o9J07-2IPEu2M/view?usp=sharing)]
-
-[![Watch the video](interactive.mp4)]
-
-
-
 # [Dot Density Map](https://datavizproject.com/data-type/dot-density-map/)
 És una visualització que utilitza punts o altres símbols per indicar la presència d'un fenòmen en un mapa. Poden ser de tipus One-to-One, on cada punt representa un esdeveniment, o One-to-Many, on cada punt representa una quantitat predeterminada d'esdeveniments (per exemple, un punt per a cada 100 casos).
 
@@ -860,10 +850,7 @@ fig.update_layout(
 
 fig.show()
 ```
-<div>
-<video src="https://github.com/EstherRH00/VisualitzacioPAC2/blob/main/interactive.mp4" width="320" height="240" controls></video>
-</div>
-or
-<div>
-<iframe width="560" height="315" src="interactive.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+![png](output_19_1.png)
+https://github.com/user-attachments/assets/bfb0806a-ebb1-4fe1-80be-b5e32af7b4c7
+
