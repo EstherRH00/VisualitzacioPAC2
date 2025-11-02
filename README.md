@@ -22,7 +22,7 @@ A més dels mapes per a població, l'estudi d'epidèmies de la primera meitat de
 
 |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Thomas-Shapter-HistoryOfCholeraInExeter1832-map.jpg/250px-Thomas-Shapter-HistoryOfCholeraInExeter1832-map.jpg)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/250px-Snow-cholera-map-1.jpg)|
 |-|-|
-|Mapa de Thomas Shapter: casos de còlera a Èxter (1849) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))| Mapa de Jphn Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
+|Mapa de Thomas Shapter: casos de còlera a Èxter (1849) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))| Mapa de John Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
 
 ## Avantatges i inconvenients
 ### Avantatges
@@ -77,7 +77,7 @@ A més dels mapes per a població, l'estudi d'epidèmies de la primera meitat de
 
 |![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/250px-Snow-cholera-map-1.jpg)|
 |-|
-|Mapa de Jphn Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
+|Mapa de John Snow: casos de còlera a Londres (1854) ([font](https://en.wikipedia.org/wiki/Dot_distribution_map))|
 
 
 ## Visualització
